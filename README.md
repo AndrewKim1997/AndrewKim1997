@@ -53,7 +53,7 @@
     <i>Federated Regressive Learning: Adaptive Weight Updates through Statistical Information of Clients</i><br>
     <span>Applied Soft Computing, 2024</span></p>
     <a href="https://doi.org/10.1016/j.asoc.2024.112043">
-      <img src="https://img.shields.io/badge/Journal-Applied%20Soft%20Computing-blue?style=flat-square">
+      <img src="https://img.shields.io/badge/Elsevier-Applied%20Soft%20Computing-blue?style=flat-square&logo=Elsevier&logoColor=white">
     </a>
     <img src="https://img.shields.io/badge/%20Repository-coming%20soon-lightgrey?style=flat-square">
   </div>
