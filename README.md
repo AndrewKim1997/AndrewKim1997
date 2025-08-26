@@ -1,14 +1,15 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-    Hello, my name is Dongseok (Andrew) Kim. I am an AI & ML researcher based in South Korea, 
-    with an academic background in statistics and computer science.<br><br>
-    My research interests span the broader field of artificial intelligence and machine learning, 
-    where I am particularly passionate about improving model performance and exploring practical 
-    applications in industry. Beyond applied work, I also enjoy investigating theoretical foundations 
-    and developing novel approaches that expand our understanding of learning systems.<br><br>
-    Moving forward, I aspire to pursue research that balances academic rigor with practical impact, 
-    and to contribute to AI technologies that create meaningful value for both society and industry.
+    Hello, I’m Dongseok (Andrew) Kim, an AI & ML researcher based in South Korea. With a background in statistics and computer science, I focus on developing methods to improve the performance and reliability of AI systems.<br><br>
+    Rather than pursuing research confined to a specific industry or domain, I am interested in principles and techniques that are broadly applicable. I view mathematics and statistics as practical tools for connecting theoretical insights with real-world problem 
+    solving, and I value research that goes beyond chasing benchmarks to address how systems can function more robustly and dependably in practice.<br><br>
+    My work also explores the strategic behaviors and trust issues that emerge as AI becomes integrated into industry and society. As AI adoption grows and new contracts and business models take shape, some participants may exploit loopholes for unfair advantage or form 
+    collusive alliances, while others may choose to exit systems or resist such coalitions. Investigating these dynamics through a game-theoretic lens is, I believe, essential for building AI systems that are not only technically effective but also socially trustworthy.<br><br>
+    In addition, I am particularly interested in selection bias in large language models (LLMs). Through prompt engineering experiments, I observed behaviors resembling the human cognitive bias known as the position effect, which sparked my interest in systematically 
+    evaluating what LLMs “know” and “do not know.” Such evaluations, I believe, can reveal knowledge gaps across models and open pathways for improvement through lightweight fine-tuning approaches such as PEFT. In this sense, strategies for mitigating cognitive bias 
+    ultimately connect to enhancing the knowledge and reliability of LLMs themselves.<br><br>
+    Moving forward, I aspire to pursue research that strikes a balance between academic rigor and practical impact, with the goal of contributing to AI technologies that provide meaningful value to both industry and society.
   </div>
 </div>
 
