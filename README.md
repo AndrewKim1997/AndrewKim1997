@@ -72,7 +72,7 @@
   <br>
   <div align="left">
     <p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
-    <i>Convergence and Generalization of Antiregularization for Parametric Models</i><br>
+    <i>Convergence and Generalization of Anti-regularization for Parametric Models</i><br>
     <span>arXiv Preprint, 2025</span></p>
     <a href="https://arxiv.org/abs/2508.17412">
       <img src="https://img.shields.io/badge/arXiv-Preprint-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
