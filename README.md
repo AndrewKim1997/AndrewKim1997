@@ -57,7 +57,7 @@
     </a>
     <img src="https://img.shields.io/badge/%20Repository-coming%20soon-lightgrey?style=flat-square">
   </div>
-
+  <br>
   <div align="left" style="margin-bottom: 15px;">
     <p><b>Wonjun Jung, Dongseok Kim, Taegkeun Whangbo</b><br>
     <i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
@@ -69,7 +69,7 @@
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
     </a>
   </div>
-
+  <br>
   <div align="left">
     <p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
     <i>Convergence and Generalization of Antiregularization for Parametric Models</i><br>
@@ -80,6 +80,7 @@
     <a href="https://github.com/AndrewKim1997/anti-regularization-parametric-models">
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
     </a>
+    <br>
   </div>
 
 </div>
