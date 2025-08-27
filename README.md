@@ -27,7 +27,6 @@
   <a href="https://orcid.org/YOUR_ORCID_ID">
     <img src="https://img.shields.io/badge/ORCID-0009--0006--7853--4207-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
-
 </div>
 
 <div style="text-align: left;">
@@ -84,6 +83,14 @@
     </a>
     <br>
   </div>
-
 </div>
 
+<div style="text-align: left;">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My GitHub Stats </h2>
+  <div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewKim1997&theme=minimal" alt="GitHub Contribution Graph" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AndrewKim1997&show_icons=true&theme=minimal" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKim1997&layout=compact&theme=minimal" alt="Top Languages" />
+  </div>
+</div>
