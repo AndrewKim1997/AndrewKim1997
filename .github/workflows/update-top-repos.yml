@@ -2,7 +2,7 @@ name: Update Top Repos
 
 on:
   schedule:
-    - cron: "0 0 * * 1"
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 permissions:
   contents: write
@@ -18,46 +18,53 @@ jobs:
         uses: actions/github-script@v7
         with:
           script: |
-            const username = "AndrewKim1997";
+            const username = 'AndrewKim1997';
             const topN = 4;
+            const cols = 2;
+
+            const repos = await github.paginate(
+              github.rest.repos.listForUser,
+              { username, per_page: 100, sort: 'updated', direction: 'desc' }
+            );
+
             const mine = repos
               .filter(r => !r.fork && !r.archived && !r.private)
-              .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
+              .sort((a, b) => (b.stargazers_count ?? 0) - (a.stargazers_count ?? 0))
               .slice(0, topN);
 
-            const cells = filtered.map(r => `
-<td>
-  <a href="https://github.com/${AndrewKim1997}/${r.name}">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=default&hide_border=false" />
-  </a>
-</td>`);
-
+            const cell = r => `<td><a href="https://github.com/${username}/${r.name}"><img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=default&hide_border=false" /></a></td>`;
             const rows = [];
-            for (let i = 0; i < cells.length; i += 2) {
-              rows.push(`<tr>${cells.slice(i, i+2).join('')}</tr>`);
+            for (let i = 0; i < mine.length; i += cols) {
+              rows.push(`<tr>${mine.slice(i, i + cols).map(cell).join('')}</tr>`);
             }
             const table = `<table>\n${rows.join('\n')}\n</table>`;
 
-            const fs = require("fs");
-            const readmePath = "README.md";
-            const startTag = "<!-- TOP_REPOS:START -->";
-            const endTag = "<!-- TOP_REPOS:END -->";
-            const readme = fs.readFileSync(readmePath, "utf8");
-            const newContent = readme.replace(
-              new RegExp(`${startTag}[\\s\\S]*?${endTag}`),
-              `${startTag}\n${table}\n${endTag}`
-            );
+            const fs = require('fs');
+            const path = 'README.md';
+            const START = '<!-- TOP_REPOS:START -->';
+            const END   = '<!-- TOP_REPOS:END -->';
+            const readme = fs.readFileSync(path, 'utf8');
 
-            if (newContent !== readme) {
-              fs.writeFileSync(readmePath, newContent);
-              core.setOutput("changed", "true");
+            const s = readme.indexOf(START);
+            const e = readme.indexOf(END);
+            if (s === -1 || e === -1) {
+              core.setFailed('Markers not found in README.md');
+              return;
+            }
+            const before = readme.slice(0, s + START.length);
+            const after  = readme.slice(e);
+            const updated = `${before}\n${table}\n${after}`;
+
+            if (updated !== readme) {
+              fs.writeFileSync(path, updated);
+              core.setOutput('changed', 'true');
             } else {
-              core.setOutput("changed", "false");
+              core.setOutput('changed', 'false');
             }
 
       - name: Commit & Push
         if: steps.gen.outputs.changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: update Top Open Source section"
+          commit_message: 'chore: update Top Open Source section'
           file_pattern: README.md
