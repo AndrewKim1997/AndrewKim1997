@@ -20,18 +20,14 @@ jobs:
           script: |
             const username = "AndrewKim1997";
             const topN = 4;
-            const repos = await github.paginate(
-              github.rest.repos.listForUser,
-              { username, per_page: 100, sort: "updated", direction: "desc" }
-            );
-            const filtered = repos
+            const mine = repos
               .filter(r => !r.fork && !r.archived && !r.private)
-              .sort((a, b) => (b.stargazers_count ?? 0) - (a.stargazers_count ?? 0))
+              .sort((a, b) => new Date(b.pushed_at) - new Date(a.pushed_at))
               .slice(0, topN);
 
             const cells = filtered.map(r => `
 <td>
-  <a href="https://github.com/${username}/${r.name}">
+  <a href="https://github.com/${AndrewKim1997}/${r.name}">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=${username}&repo=${r.name}&theme=default&hide_border=false" />
   </a>
 </td>`);
