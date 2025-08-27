@@ -16,15 +16,15 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact </h2>
 
-  <a href="mailto:jkds5920@gmail.com" style="text-decoration:none;">
+  <a href="mailto:jkds5920@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email me"/>
   </a>
 
-  <a href="https://scholar.google.com/citations?user=QOt0-48AAAAJ" style="text-decoration:none;">
+  <a href="https://scholar.google.com/citations?user=QOt0-48AAAAJ">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
 
-  <a href="https://orcid.org/0009-0006-7853-4207" style="text-decoration:none;">
+  <a href="https://orcid.org/0009-0006-7853-4207">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </div>
