@@ -85,25 +85,9 @@
   </div>
 </div>
 
-<!-- TOP_REPOS:START -->
-<table>
-<tr><td><a href="https://github.com/AndrewKim1997/AndrewKim1997"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewKim1997&repo=AndrewKim1997&theme=default&hide_border=false" /></a></td><td><a href="https://github.com/AndrewKim1997/federated-regressive-learning"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewKim1997&repo=federated-regressive-learning&theme=default&hide_border=false" /></a></td></tr>
-<tr><td><a href="https://github.com/AndrewKim1997/anti-regularization-parametric-models"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AndrewKim1997&repo=anti-regularization-parametric-models&theme=default&hide_border=false" /></a></td></tr>
-</table>
-<!-- TOP_REPOS:END -->
-
-<p align="left">
-  <a href="https://github.com/AndrewKim1997?tab=repositories">
-    <img src="https://img.shields.io/badge/ALL%20REPOS-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My GitHub Stats </h2>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewKim1997&theme=minimal" alt="GitHub Contribution Graph" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=AndrewKim1997&show_icons=true&theme=minimal" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewKim1997&layout=compact&theme=minimal" alt="Top Languages" />
   </div>
 </div>
