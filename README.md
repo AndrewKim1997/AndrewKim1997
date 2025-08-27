@@ -55,7 +55,9 @@
     <a href="https://doi.org/10.1016/j.asoc.2024.112043">
       <img src="https://img.shields.io/badge/Elsevier-Applied%20Soft%20Computing-blue?style=flat-square&logo=Elsevier&logoColor=white">
     </a>
-    <img src="https://img.shields.io/badge/%20Repository-coming%20soon-lightgrey?style=flat-square">
+    <a href="https://github.com/AndrewKim1997/federated-regressive-learning">
+      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
   </div>
   <br>
   <div align="left" style="margin-bottom: 15px;">
