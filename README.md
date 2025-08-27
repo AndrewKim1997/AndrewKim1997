@@ -17,15 +17,15 @@
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✉️ Contact </h2>
 
   <a href="mailto:jkds5920@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email%20me-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email me"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email me"/>
   </a>
 
   <a href="https://scholar.google.com/citations?user=QOt0-48AAAAJ">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"/>
   </a>
 
   <a href="https://orcid.org/0009-0006-7853-4207">
-    <img src="https://img.shields.io/badge/ORCID-0009--0006--7853--4207-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID"/>
   </a>
 </div>
 
@@ -52,7 +52,7 @@
     <i>Federated Regressive Learning: Adaptive Weight Updates through Statistical Information of Clients</i><br>
     <span>Applied Soft Computing, 2024</span></p>
     <a href="https://doi.org/10.1016/j.asoc.2024.112043">
-      <img src="https://img.shields.io/badge/Elsevier-Applied%20Soft%20Computing-blue?style=flat-square&logo=Elsevier&logoColor=white">
+      <img src="https://img.shields.io/badge/Elsevier-blue?style=flat-square&logo=Elsevier&logoColor=white">
     </a>
     <a href="https://github.com/AndrewKim1997/federated-regressive-learning">
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -64,7 +64,7 @@
     <i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
     <span>arXiv Preprint, 2025</span></p>
     <a href="https://arxiv.org/abs/2507.18182">
-      <img src="https://img.shields.io/badge/arXiv-Preprint-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
     </a>
     <a href="https://github.com/WonjunJeong97/SCOPE">
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
@@ -76,7 +76,7 @@
     <i>Convergence and Generalization of Anti-regularization for Parametric Models</i><br>
     <span>arXiv Preprint, 2025</span></p>
     <a href="https://arxiv.org/abs/2508.17412">
-      <img src="https://img.shields.io/badge/arXiv-Preprint-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
     </a>
     <a href="https://github.com/AndrewKim1997/anti-regularization-parametric-models">
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
