@@ -1,7 +1,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-    Hello, I’m Dongseok (Andrew) Kim, an AI & ML researcher. With a background in statistics and computer science, I focus on developing methods to improve the performance and reliability of AI systems.<br><br>
+    Hello, I’m Dongseok Kim, an AI & ML researcher. With a background in statistics and computer science, I focus on developing methods to improve the performance and reliability of AI systems.<br><br>
     Rather than pursuing research confined to a specific industry or domain, I am interested in principles and techniques that are broadly applicable. I view mathematics and statistics as practical tools for connecting theoretical insights with real-world problem 
     solving, and I value research that goes beyond chasing benchmarks to address how systems can function more robustly and dependably in practice.<br><br>
     My work also explores the strategic behaviors and trust issues that emerge as AI becomes integrated into industry and society. As AI adoption grows and new contracts and business models take shape, some participants may exploit loopholes for unfair advantage or form 
