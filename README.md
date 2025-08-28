@@ -74,7 +74,7 @@
   </div>
   <br>
   <div align="left" style="margin-bottom: 15px;">
-    <p><b>Wonjun Jung, Dongseok Kim, Taegkeun Whangbo</b><br>
+    <p><b>Wonjun Jeong, Dongseok Kim, Taegkeun Whangbo</b><br>
     <i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
     <span>arXiv Preprint, 2025</span></p>
     <a href="https://arxiv.org/abs/2507.18182">
