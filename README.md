@@ -104,6 +104,7 @@
     <a href="https://github.com/AndrewKim1997/gcfl">
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
     </a>
+    <br>
     <a href="https://github.com/AndrewKim1997/gcfl-sim">
       <img src="https://img.shields.io/badge/%20Repository-Simulator-181717?style=flat-square&logo=github&logoColor=white&colorA=181717">
     </a>
