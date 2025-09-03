@@ -94,6 +94,20 @@
       <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
     </a>
     <br>
+    <div align="left">
+    <p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
+    <i>Gaming and Cooperation in Federated Learning: What Can Happen and How to Monitor It</i><br>
+    <span>arXiv Preprint, 2025</span></p>
+    <a href="https://arxiv.org/abs/2509.02391">
+      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+    </a>
+    <a href="https://github.com/AndrewKim1997/gcfl">
+      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
+    <a href="https://github.com/AndrewKim1997/gcfl-sim">
+      <img src="https://img.shields.io/badge/%20Repository-simulator-181717?style=flat-square&logo=github&logoColor=white&colorA=181717">
+    </a>
+    <br>
   </div>
 </div>
 
