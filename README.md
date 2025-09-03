@@ -1,15 +1,17 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-    Hello, I’m Dongseok Kim, an AI & ML researcher. With a background in statistics and computer science, I focus on developing methods to improve the performance and reliability of AI systems.<br><br>
-    Rather than pursuing research confined to a specific industry or domain, I am interested in principles and techniques that are broadly applicable. I view mathematics and statistics as practical tools for connecting theoretical insights with real-world problem 
-    solving, and I value research that goes beyond chasing benchmarks to address how systems can function more robustly and dependably in practice.<br><br>
-    My work also explores the strategic behaviors and trust issues that emerge as AI becomes integrated into industry and society. As AI adoption grows and new contracts and business models take shape, some participants may exploit loopholes for unfair advantage or form 
-    collusive alliances, while others may choose to exit systems or resist such coalitions. Investigating these dynamics through a game-theoretic lens is, I believe, essential for building AI systems that are not only technically effective but also socially trustworthy.<br><br>
-    In addition, I am particularly interested in selection bias in large language models (LLMs). Through prompt engineering experiments, I observed behaviors resembling the human cognitive bias known as the position effect, which sparked my interest in systematically 
-    evaluating what LLMs “know” and “do not know.” Such evaluations, I believe, can reveal knowledge gaps across models and open pathways for improvement through lightweight fine-tuning approaches such as PEFT. In this sense, strategies for mitigating cognitive bias 
-    ultimately connect to enhancing the knowledge and reliability of LLMs themselves.<br><br>
-    Moving forward, I aspire to pursue research that strikes a balance between academic rigor and practical impact, with the goal of contributing to AI technologies that provide meaningful value to both industry and society.
+   Hello, I'm Dongseok Kim, an AI & ML researcher focused on developing general-purpose methodologies and understanding their deeper foundations. My work isn’t tied to any single domain—I’m interested in principles that cut across fields and can be applied broadly in 
+   meaningful ways.
+   <br><br>
+   I see my research as sitting between theory and practice. Mathematics and statistics are not just tools for me; they provide the grounding needed to make AI systems stable and trustworthy. At the same time, I rely on experiments and intuition to spark new ideas, 
+   aiming to design methods that are both rigorous and useful in real-world settings.
+   <br><br>
+   I take an interdisciplinary perspective, drawing on concepts from different academic traditions to push AI research in new directions. I’m less interested in narrow techniques or fixed applications and more motivated by combining diverse approaches to build 
+   frameworks that are robust, sustainable, and widely usable.
+   <br><br>
+   I’m also more drawn to exploring uncharted territory than following well-established paths. Ensuring validity through careful analysis matters to me, but so does keeping my work connected to practical impact. In the long run, I don’t want to be a specialist confined 
+   to one corner of the field. Instead, I aim to bridge disciplines and contribute to shaping new paradigms in AI, creating foundations that others can extend and apply across a wide range of contexts.
   </div>
 </div>
 
