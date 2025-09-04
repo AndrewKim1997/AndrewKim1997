@@ -1,7 +1,7 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-   Hello, I'm Dongseok Kim, an AI & ML researcher focused on developing general-purpose methodologies and understanding their deeper foundations. My work isn’t tied to any single domain—I’m interested in principles that cut across fields and can be applied broadly in 
+   Hello, I'm Dongseok Kim, an AI & ML researcher focused on developing general-purpose methodologies and understanding their deeper foundations. My work isn’t tied to any single domain — I’m interested in principles that cut across fields and can be applied broadly in 
    meaningful ways.
    <br><br>
    I see my research as sitting between theory and practice. Mathematics and statistics are not just tools for me; they provide the grounding needed to make AI systems stable and trustworthy. At the same time, I rely on experiments and intuition to spark new ideas, 
