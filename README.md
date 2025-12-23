@@ -145,7 +145,7 @@
     <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
     <i>Position: Explainable AI Was Not Invented Just to Explain Your Model</i><br>
     <a href="https://andrewkim1997.github.io/xai-position-paper/paper.pdf">
-      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/Preprint-4285F4?style=flat-square&logo=googlescholar&logoColor=white">
     </a>
   </div>
 
