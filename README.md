@@ -140,6 +140,14 @@
       <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
     </a>
   </div>
+  <br>
+  <div align="left">
+    <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+    <i>Position: Explainable AI Was Not Invented Just to Explain Your Model</i><br>
+    <a href="https://andrewkim1997.github.io/xai-position-paper/paper.pdf">
+      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+    </a>
+  </div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My GitHub Stats </h2>
