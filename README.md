@@ -54,95 +54,112 @@
 </div>
 
 <div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Publications </h2>
-  
-  <div align="left" style="margin-bottom: 15px;">
-    <p><b>DongSeok Kim, Shabir Ahmad, TaegKeun Whangbo</b><br>
-    <i>Federated Regressive Learning: Adaptive Weight Updates through Statistical Information of Clients</i><br>
-    <span>Applied Soft Computing, 2024</span></p>
-    <a href="https://doi.org/10.1016/j.asoc.2024.112043">
-      <img src="https://img.shields.io/badge/Elsevier-1e3787?style=flat-square&logo=elsevier&logoColor=white">
-    </a>
-    <a href="https://github.com/AndrewKim1997/federated-regressive-learning">
-      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left" style="margin-bottom: 15px;">
-    <p><b>Wonjun Jeong, Dongseok Kim, Taegkeun Whangbo</b><br>
-    <i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
-    <span>arXiv Preprint, 2025</span></p>
-    <a href="https://arxiv.org/abs/2507.18182">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-    <a href="https://github.com/WonjunJeong97/SCOPE">
-      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left">
-    <p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
-    <i>Convergence and Generalization of Anti-regularization for Parametric Models</i><br>
-    <span>arXiv Preprint, 2025</span></p>
-    <a href="https://arxiv.org/abs/2508.17412">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-    <a href="https://github.com/AndrewKim1997/anti-regularization-parametric-models">
-      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left">
-    <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-    <i>Gaming and Cooperation in Federated Learning: What Can Happen and How to Monitor It</i><br>
-    <span>Transactions on Machine Learning Research, 2026</span></p>
-    <a href="https://openreview.net/forum?id=Ck3q5YdWIv">
-    <img alt="Journal: Transactions on Machine Learning Research"
-         src="https://img.shields.io/badge/TMLR-1e3787?style=flat-square&logo=tumblr&logoColor=white&labelColor=1e3787">
-    </a>
-    <a href="https://arxiv.org/abs/2509.02391">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-    <a href="https://github.com/AndrewKim1997/gcfl">
-      <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left">
-    <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-    <i>ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA</i><br>
-    <span>arXiv Preprint, 2025</span></p>
-    <a href="https://arxiv.org/abs/2509.10825">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left">
-    <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-    <i>CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace</i><br>
-    <span>arXiv Preprint, 2025</span></p>
-    <a href="https://arxiv.org/abs/2512.01384">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left">
-    <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-    <i>$\phi$-test: Global Feature Selection and Inference for Shapley Additive Explanations</i><br>
-    <span>arXiv Preprint, 2025</span></p>
-    <a href="https://arxiv.org/abs/2512.07578">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-  </div>
-  <br>
-  <div align="left">
-    <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-    <i>Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity</i><br>
-    <span>arXiv Preprint, 2025</span></p>
-    <a href="https://arxiv.org/abs/2512.12688">
-      <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-    </a>
-  </div>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Publications </h2>
+
+<details open>
+<summary><img src="https://img.shields.io/badge/2026-1e3787?style=flat-square" alt="2026"></summary>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>Gaming and Cooperation in Federated Learning: What Can Happen and How to Monitor It</i><br>
+<span>Transactions on Machine Learning Research, 2026</span></p>
+<a href="https://openreview.net/forum?id=Ck3q5YdWIv">
+<img alt="Journal: Transactions on Machine Learning Research" src="https://img.shields.io/badge/TMLR-1e3787?style=flat-square&logo=tumblr&logoColor=white&labelColor=1e3787">
+</a>
+<a href="https://arxiv.org/abs/2509.02391">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+<a href="https://github.com/AndrewKim1997/gcfl">
+<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</div>
+</details>
+
+<br>
+
+<details>
+<summary><img src="https://img.shields.io/badge/2025-282d33?style=flat-square" alt="2025"></summary>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Wonjun Jeong, Dongseok Kim, Taegkeun Whangbo</b><br>
+<i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2507.18182">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+<a href="https://github.com/WonjunJeong97/SCOPE">
+<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
+<i>Convergence and Generalization of Anti-regularization for Parametric Models</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2508.17412">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+<a href="https://github.com/AndrewKim1997/anti-regularization-parametric-models">
+<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2509.10825">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2512.01384">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>$\phi$-test: Global Feature Selection and Inference for Shapley Additive Explanations</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2512.07578">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2512.12688">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+</div>
+</details>
+
+<br>
+
+<details>
+<summary><img src="https://img.shields.io/badge/2024-282d33?style=flat-square" alt="2024"></summary>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>DongSeok Kim, Shabir Ahmad, TaegKeun Whangbo</b><br>
+<i>Federated Regressive Learning: Adaptive Weight Updates through Statistical Information of Clients</i><br>
+<span>Applied Soft Computing, 2024</span></p>
+<a href="https://doi.org/10.1016/j.asoc.2024.112043">
+<img src="https://img.shields.io/badge/Elsevier-1e3787?style=flat-square&logo=elsevier&logoColor=white">
+</a>
+<a href="https://github.com/AndrewKim1997/federated-regressive-learning">
+<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+</div>
+</details>
+
+</div>
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My GitHub Stats </h2>
