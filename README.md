@@ -64,7 +64,7 @@
 <i>Gaming and Cooperation in Federated Learning: What Can Happen and How to Monitor It</i><br>
 <span>Transactions on Machine Learning Research, 2026</span></p>
 <a href="https://openreview.net/forum?id=Ck3q5YdWIv">
-<img alt="Journal: Transactions on Machine Learning Research" src="https://img.shields.io/badge/TMLR-1e3787?style=flat-square&logo=tumblr&logoColor=white&labelColor=1e3787">
+<img alt="Journal: Transactions on Machine Learning Research" src="https://img.shields.io/badge/TMLR-1e3787?style=flat-square&logo=googledocs&logoColor=white&labelColor=1e3787">
 </a>
 <a href="https://arxiv.org/abs/2509.02391">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
