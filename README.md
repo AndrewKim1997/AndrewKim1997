@@ -57,7 +57,7 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Publications </h2>
 
 <details open>
-<summary><img src="https://img.shields.io/badge/2026-1e3787?style=flat-square" alt="2026"></summary>
+<summary><img src="https://img.shields.io/badge/2026-14b8a6?style=flat-square" alt="2026"></summary>
 
 <div align="left" style="margin-bottom: 15px;">
 <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
