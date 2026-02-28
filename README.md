@@ -1,17 +1,13 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-   Hello, I'm Dongseok Kim, a Computer Scientist specializing in AI/ML with a focus on general-purpose methodologies and their theoretical foundations. My work isn’t tied to any single domain — I’m interested in principles that cut across fields and can be applied 
-   broadly in meaningful ways.
-   <br><br>
-   I see my research as sitting between theory and practice. Mathematics and statistics are not just tools for me; they provide the grounding needed to make AI systems stable and trustworthy. At the same time, I rely on experiments and intuition to spark new ideas, 
-   aiming to design methods that are both rigorous and useful in real-world settings.
-   <br><br>
-   I take an interdisciplinary perspective, drawing on concepts from different academic traditions to push AI research in new directions. I’m less interested in narrow techniques or fixed applications and more motivated by combining diverse approaches to build 
-   frameworks that are robust, sustainable, and widely usable.
-   <br><br>
-   I’m also more drawn to exploring uncharted territory than following well-established paths. Ensuring validity through careful analysis matters to me, but so does keeping my work connected to practical impact. In the long run, I don’t want to be a specialist confined 
-   to one corner of the field. Instead, I aim to bridge disciplines and contribute to shaping new paradigms in AI, creating foundations that others can extend and apply across a wide range of contexts.
+    Hello, I'm Dongseok Kim. I work on AI/ML with a focus on building general-purpose methods grounded in theory, and I care deeply about connecting <b>Mathematics</b>, <b>Statistics</b>, and <b>Computer Science</b> into a coherent foundation for trustworthy AI.
+    <br><br>
+    My primary research interests are <b>Uncertainty Quantification (UQ)</b> and <b>eXplainable AI (XAI)</b>. I’m especially interested in how these two areas can strengthen each other: using uncertainty-aware reasoning to make explanations more reliable, and using explanation-driven structure to improve how uncertainty is represented, validated, and communicated. In the long run, I aim to advance XAI beyond heuristic interpretability toward explanations that are <b>statistically grounded</b>, <b>robust</b>, and <b>useful for decision-making</b>.
+    <br><br>
+    I’m drawn to exploring fresh and under-charted research questions, and I enjoy approaching the same problem from multiple angles—formal theory, empirical testing, and practical constraints. To do that well, I actively pursue <b>Interdisciplinary Work</b> and borrow ideas wherever they help: <b>Ethics</b> and <b>Philosophy</b> for normative clarity, <b>Economics</b> and <b>Game Theory</b> for incentives and strategic behavior, and even <b>Management</b> and organizational perspectives for understanding how AI systems operate in real institutions.
+    <br><br>
+    Overall, my goal is not to be confined to one corner of AI. I want to bridge disciplines and contribute new paradigms—methods and frameworks that are both rigorous and practical, and that others can extend across a wide range of domains.
   </div>
 </div>
 
