@@ -92,14 +92,38 @@
 <summary><img src="https://img.shields.io/badge/2025-282d33?style=flat-square" alt="2025"></summary>
 
 <div align="left" style="margin-bottom: 15px;">
-<p><b>Wonjun Jeong, Dongseok Kim, Taegkeun Whangbo</b><br>
-<i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity</i><br>
 <span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2507.18182">
+<a href="https://arxiv.org/abs/2512.12688">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
 </a>
-<a href="https://github.com/WonjunJeong97/SCOPE">
-<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>$\phi$-test: Global Feature Selection and Inference for Shapley Additive Explanations</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2512.07578">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2512.01384">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+</a>
+</div>
+
+<div align="left" style="margin-bottom: 15px;">
+<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
+<i>ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA</i><br>
+<span>arXiv Preprint, 2025</span></p>
+<a href="https://arxiv.org/abs/2509.10825">
+<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
 </a>
 </div>
 
@@ -116,38 +140,14 @@
 </div>
 
 <div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA</i><br>
+<p><b>Wonjun Jeong, Dongseok Kim, Taegkeun Whangbo</b><br>
+<i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
 <span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2509.10825">
+<a href="https://arxiv.org/abs/2507.18182">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
 </a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2512.01384">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>$\phi$-test: Global Feature Selection and Inference for Shapley Additive Explanations</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2512.07578">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2512.12688">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
+<a href="https://github.com/WonjunJeong97/SCOPE">
+<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 </div>
 </details>
