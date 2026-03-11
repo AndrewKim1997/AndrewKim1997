@@ -62,15 +62,6 @@
 <summary><img src="https://img.shields.io/badge/2026-14b8a6?style=flat-square" alt="2026"></summary>
 
 <div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh, Shabir Ahmad</b><br>
-<i>The Price of Justice in Machine Learning: Fair Division with Subjective Value under Bounded Rationality</i><br>
-<span>arXiv Preprint, 2026</span></p>
-<a href="https://arxiv.org/abs/26XX.XXXXX">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
 <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
 <i>Gaming and Cooperation in Federated Learning: What Can Happen and How to Monitor It</i><br>
 <span>Transactions on Machine Learning Research, 2026</span></p>
