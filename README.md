@@ -129,18 +129,6 @@
 <img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
 </a>
 </div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Wonjun Jeong, Dongseok Kim, Taegkeun Whangbo</b><br>
-<i>SCOPE: Stochastic and Counterbiased Option Placement for Evaluating Large Language Models</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2507.18182">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-<a href="https://github.com/WonjunJeong97/SCOPE">
-<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-</div>
 </details>
 
 <br>
