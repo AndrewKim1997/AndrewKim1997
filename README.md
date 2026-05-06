@@ -84,7 +84,7 @@
 
 <div align="left" style="margin-bottom: 15px;">
 <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>Theoretical Foundations of Prompt Engineering: From Heuristics to Expressivity</i><br>
+<i>How Prompts Move Language Model Behavior: Frames, Salience, and Construal as Semantic Control</i><br>
 <span>arXiv Preprint, 2025</span></p>
 <a href="https://arxiv.org/abs/2512.12688">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
@@ -93,7 +93,7 @@
 
 <div align="left" style="margin-bottom: 15px;">
 <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>$\phi$-test: Global Feature Selection and Inference for Shapley Additive Explanations</i><br>
+<i>$\phi$-Table: A Statistical Explanation for Global SHAP</i><br>
 <span>arXiv Preprint, 2025</span></p>
 <a href="https://arxiv.org/abs/2512.07578">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
@@ -102,7 +102,7 @@
 
 <div align="left" style="margin-bottom: 15px;">
 <p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>CLAPS: Posterior-Aware Conformal Intervals via Last-Layer Laplace</i><br>
+<i>CLAPS: Aleatoric-Epistemic Scaling via Last-Layer Laplace for Conformal Regression</i><br>
 <span>arXiv Preprint, 2025</span></p>
 <a href="https://arxiv.org/abs/2512.01384">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
@@ -120,7 +120,7 @@
 
 <div align="left" style="margin-bottom: 15px;">
 <p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
-<i>Convergence and Generalization of Anti-regularization for Parametric Models</i><br>
+<i>A Ridge Too Far: Correcting Over-Shrinkage via Negative Regularization</i><br>
 <span>arXiv Preprint, 2025</span></p>
 <a href="https://arxiv.org/abs/2508.17412">
 <img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
