@@ -1,15 +1,15 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-    Hello, I'm Dongseok Kim. I work on AI/ML with a focus on building general-purpose methods grounded in theory, and I care deeply about connecting <b>Mathematics, Statistics, and Computer Science</b> into a coherent foundation for trustworthy AI.
+    Hello, I'm Dongseok Kim. I work on Artificial Intelligence and Machine Learning, with a focus on developing general-purpose methods and frameworks that are theoretically grounded, practically meaningful, and broadly applicable across domains.
     <br><br>
-    My primary research interests include Uncertainty Quantification (UQ) and eXplainable AI (XAI), with a focus on developing methods that are theoretically grounded and practically reliable. I’m especially interested in how UQ and XAI can strengthen each other—using uncertainty-aware reasoning to make explanations more reliable, and using explanation-driven structure to improve how uncertainty is represented, validated, and communicated. 
-    <br><br>    
-    Beyond this, I also study incentive and strategic dynamics in federated learning, and I investigate machine learning fairness as a question of distribution and legitimacy—how to define, measure, and justify equitable outcomes in real systems. Ultimately, my goal is to develop trustworthy methods that remain reliable under uncertainty and genuinely support decision-making.
+    My research interests include eXplainable AI (XAI), Uncertainty Quantification (UQ), Machine Learning Fairness, AI Governance, and AI Ethics. I am especially interested in how these areas can be connected to build AI systems that are not only accurate, but also interpretable, reliable, fair, and accountable in real-world decision-making contexts.
     <br><br>
-    I’m drawn to exploring fresh and underexplored research questions, and I enjoy approaching the same problem from multiple angles—formal theory, empirical testing, and practical constraints. To do that well, I actively pursue interdisciplinary work, drawing on ideas across fields to explore problems from fresh perspectives and connect theory, evidence, and real-world constraints into coherent insights.
+    I see trustworthy AI as an interdisciplinary challenge. Rather than treating technical performance, uncertainty, fairness, ethics, and governance as separate issues, I aim to study how they interact with one another and how they can be integrated into coherent methods for responsible AI and ML.
     <br><br>
-    Overall, my goal is not to be confined to one corner of AI. I want to bridge disciplines and contribute new paradigms—methods and frameworks that are both rigorous and practical, and that others can extend across a wide range of domains.
+    I value research that connects ideas across Mathematics, Statistics, Computer Science, and the broader social and institutional contexts in which AI systems are deployed. By approaching problems from multiple perspectives—formal theory, empirical evaluation, practical constraints, and normative reasoning—I hope to develop insights that are both rigorous and useful.
+    <br><br>
+    My goal is not to be confined to a single application domain or narrow subfield. I aim to contribute to the advancement of AI and ML themselves by developing ideas, methods, and frameworks that can support more trustworthy, transparent, and responsible intelligent systems across a wide range of settings.
   </div>
 </div>
 
