@@ -3,7 +3,7 @@
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
     Hello, I'm Dongseok Kim. I work on Artificial Intelligence and Machine Learning, with a focus on developing general-purpose methods and frameworks that are theoretically grounded, practically meaningful, and broadly applicable across domains.
     <br><br>
-    My research interests include eXplainable AI (XAI), Uncertainty Quantification (UQ), Machine Learning Fairness, AI Governance, and AI Ethics. I am especially interested in how these areas can be connected to build AI systems that are not only accurate, but also interpretable, reliable, fair, and accountable in real-world decision-making contexts.
+    My research interests include eXplainable AI (XAI), Uncertainty Quantification (UQ), ML Fairness, AI Governance, and AI Ethics. I am especially interested in how these areas can be connected to build AI systems that are not only accurate, but also interpretable, reliable, fair, and accountable in real-world decision-making contexts.
     <br><br>
     I see trustworthy AI as an interdisciplinary challenge. Rather than treating technical performance, uncertainty, fairness, ethics, and governance as separate issues, I aim to study how they interact with one another and how they can be integrated into coherent methods for responsible AI and ML.
     <br><br>
