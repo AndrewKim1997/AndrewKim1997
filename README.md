@@ -1,15 +1,9 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🙋‍♂️ About </h2>
   <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33; line-height: 1.6;">
-    Hello, I'm Dongseok Kim. I work on Artificial Intelligence and Machine Learning, with a focus on developing general-purpose methods and frameworks that are theoretically grounded, practically meaningful, and broadly applicable across domains.
+    Hello, I'm Dongseok Kim. I double-majored in Applied Statistics and Computer Engineering during my undergraduate studies, and later earned a master's degree in Computer Engineering. My research interests include Explainable AI, Uncertainty Quantification, ML Fairness, AI Governance, and AI Ethics.
     <br><br>
-    My research interests include eXplainable AI (XAI), Uncertainty Quantification (UQ), ML Fairness, AI Governance, and AI Ethics. I am especially interested in how these areas can be connected to build AI systems that are not only accurate, but also interpretable, reliable, fair, and accountable in real-world decision-making contexts.
-    <br><br>
-    I see trustworthy AI as an interdisciplinary challenge. Rather than treating technical performance, uncertainty, fairness, ethics, and governance as separate issues, I aim to study how they interact with one another and how they can be integrated into coherent methods for responsible AI and ML.
-    <br><br>
-    I value research that connects ideas across Mathematics, Statistics, Computer Science, and the broader social and institutional contexts in which AI systems are deployed. By approaching problems from multiple perspectives—formal theory, empirical evaluation, practical constraints, and normative reasoning—I hope to develop insights that are both rigorous and useful.
-    <br><br>
-    My goal is not to be confined to a single application domain or narrow subfield. I aim to contribute to the advancement of AI and ML themselves by developing ideas, methods, and frameworks that can support more trustworthy, transparent, and responsible intelligent systems across a wide range of settings.
+My goal is to contribute to AI that enhances and optimizes process efficiency in advanced manufacturing industries, as well as AI for high-stakes decision-making domains such as healthcare and finance. I am actively engaged in these areas, having authored numerous papers, filed patents, and served as a reviewer for various journals and conferences.
   </div>
 </div>
 
@@ -54,106 +48,4 @@
   <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white">
   <img src="https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=overleaf&logoColor=white">
 </div>
-
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📄 Publications </h2>
-
-<details open>
-<summary><img src="https://img.shields.io/badge/2026-14b8a6?style=flat-square" alt="2026"></summary>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>Gaming and Cooperation in Federated Learning: What Can Happen and How to Monitor It</i><br>
-<span>Transactions on Machine Learning Research, 2026</span></p>
-<a href="https://openreview.net/forum?id=Ck3q5YdWIv">
-<img alt="Journal: Transactions on Machine Learning Research" src="https://img.shields.io/badge/TMLR-1e3787?style=flat-square&logo=googledocs&logoColor=white&labelColor=1e3787">
-</a>
-<a href="https://arxiv.org/abs/2509.02391">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-<a href="https://github.com/AndrewKim1997/gcfl">
-<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary><img src="https://img.shields.io/badge/2025-282d33?style=flat-square" alt="2025"></summary>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>How Prompts Move Language Model Behavior: Frames, Salience, and Construal as Semantic Control</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2512.12688">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>$\phi$-Table: A Statistical Explanation for Global SHAP</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2512.07578">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>CLAPS: Aleatoric-Epistemic Scaling via Last-Layer Laplace for Conformal Regression</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2512.01384">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Hyoungsun Choi, Mohamed Jismy Aashik Rasool, Gisung Oh</b><br>
-<i>ORACLE: Explaining Feature Interactions in Neural Networks with ANOVA</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2509.10825">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-</div>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>Dongseok Kim, Wonjun Jeong, Gisung Oh</b><br>
-<i>A Ridge Too Far: Correcting Over-Shrinkage via Negative Regularization</i><br>
-<span>arXiv Preprint, 2025</span></p>
-<a href="https://arxiv.org/abs/2508.17412">
-<img src="https://img.shields.io/badge/arXiv-B31B1B?style=flat-square&logo=arxiv&logoColor=white">
-</a>
-<a href="https://github.com/AndrewKim1997/negative-regularization">
-<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-</div>
-</details>
-
-<br>
-
-<details>
-<summary><img src="https://img.shields.io/badge/2024-282d33?style=flat-square" alt="2024"></summary>
-
-<div align="left" style="margin-bottom: 15px;">
-<p><b>DongSeok Kim, Shabir Ahmad, TaegKeun Whangbo</b><br>
-<i>Federated Regressive Learning: Adaptive Weight Updates through Statistical Information of Clients</i><br>
-<span>Applied Soft Computing, 2024</span></p>
-<a href="https://doi.org/10.1016/j.asoc.2024.112043">
-<img src="https://img.shields.io/badge/Elsevier-1e3787?style=flat-square&logo=elsevier&logoColor=white">
-</a>
-<a href="https://github.com/AndrewKim1997/federated-regressive-learning">
-<img src="https://img.shields.io/badge/%20Repository-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-</div>
-</details>
-
-</div>
-
-<div style="text-align: left;">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📊 My GitHub Stats </h2>
-  <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewKim1997&theme=minimal" alt="GitHub Contribution Graph" />
-  </div>
 </div>
